@@ -1,0 +1,3 @@
+# AdelakinIsrael
+django installation
+Zuri
